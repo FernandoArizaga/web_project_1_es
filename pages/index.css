@@ -65,8 +65,7 @@
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
-@import url(../blocks/two-columns/__paragraph1/two-columns__paragraph1.css);
-@import url(../blocks/two-columns/__paragraph2/two-columns__paragraph2.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/rotacion/rotacion.css);
 @import url(../blocks/rotacion/keyframe-rotacion.css);
