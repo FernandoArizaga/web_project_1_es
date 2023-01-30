@@ -1,5 +1,4 @@
 .table_theme_dark {
-  margin: 0px auto 90px auto;
-  object-fit: cover;
-  z-index: 1;
+  margin-top: 60px;
+  row-gap: 60px;
 }

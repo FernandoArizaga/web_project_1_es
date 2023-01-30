@@ -1,7 +1,4 @@
 .footer__column_content_copyright {
   flex-basis: 711px;
-  display: flex;
-  flex-direction: column;
   justify-content: space-between;
-  color: #f2f2f2;
 }

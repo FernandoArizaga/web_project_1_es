@@ -1,8 +1,5 @@
 .cards__item {
-  display: flex;
-  flex-direction: column;
   text-align: center;
-  align-items: center;
   width: 240px;
   list-style: none;
 }
